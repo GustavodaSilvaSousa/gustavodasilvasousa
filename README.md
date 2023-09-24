@@ -2,7 +2,7 @@
 <div align="center">
   <h1 align="center">
     Oi Tudo bem? Eu sou o 
-    <a href="[https://www.linkedin.com/in/gustavo-da-silva-sousa/](https://www.linkedin.com/in/gustavo-da-silva-sousa/)">Gustavo Sousa</a>
+    <a href="https://www.linkedin.com/in/gustavo-da-silva-sousa/">Gustavo Sousa</a>
   </h1>
   <h2>Sobre min</h2>
   <p align="center">
