@@ -2,7 +2,7 @@
 <div align="center">
   <h1 align="center">
     Oi Tudo bem? Eu sou o 
-    <a href="https://www.linkedin.com/in/edududuribeiro/">Gustavo Sousa</a>
+    <a href="[https://www.linkedin.com/in/gustavo-da-silva-sousa/](https://www.linkedin.com/in/gustavo-da-silva-sousa/)">Gustavo Sousa</a>
   </h1>
   <h2>Sobre min</h2>
   <p align="center">
@@ -27,7 +27,7 @@
 <div align="center">
   <h2>Contato</h2>
 
-  <a href="https://www.linkedin.com/in/edududuribeiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/gustavo-da-silva-sousa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:contato.gustavossousa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://github.com/GustavodaSilvaSousa"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div>
