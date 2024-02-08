@@ -6,7 +6,7 @@
   </h1>
   <h2>Sobre min</h2>
   <p align="center">
-  Olá! Meu nome é Gustavo, tenho 20 anos e sou estudante de Engenharia de Software na Universidade do Estado do Pará. Estou extremamente empolgado com o mundo da tecnologia e apaixonado por resolver problemas por meio da programação.
+  Olá! Meu nome é Gustavo, tenho 20 anos e sou estudante de Engenharia de Software na Universidade do Estado do Pará. Estou verdadeiramente entusiasmado com o universo da tecnologia e apaixonado por resolver desafios por meio da programação.
   </p> <p align="center">Atualmente, estou em busca de um estágio na área de programação, onde posso colaborar com uma equipe talentosa, contribuir com soluções inovadoras e continuar a aprimorar minhas habilidades técnicas. Estou entusiasmado com a possibilidade de trabalhar em um ambiente profissional, onde posso aprender com profissionais experientes, enfrentar desafios complexos e crescer como desenvolvedor.
   </p>
 </div>
